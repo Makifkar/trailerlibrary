@@ -2,7 +2,7 @@ server:
   port: 8081
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/trailerlibrary
+    url: jdbc:postgresql://localhost:5432/trailerlibrarydb
     username: postgres
     password: 12345
     driver-class-name: org.postgresql.Driver
